@@ -1,0 +1,8 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm'
+    id 'com.example.kotlin-parcelize'
+}
+
+dependencies {
+    compileOnly(androidJar)
+}
