@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+.idea/*
+!.idea/codeStyles
+!.idea/ktfmt.xml
+!.idea/dictionaries/project_dictionary.xml
+!.idea/inspectionProfiles
+.DS_Store
+build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
