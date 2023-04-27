@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package com.example;
+
+option go_package = "google.golang.org/genproto/googleapis/type/calendarperiod;calendarperiod";
+option java_multiple_files = true;
+option java_outer_classname = "CalendarPeriodProto";
+option java_package = "com.google.type";
+option objc_class_prefix = "GTP";
+
+message Message2 {
+  string text = 1;
+}
